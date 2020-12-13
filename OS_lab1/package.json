@@ -1,0 +1,12 @@
+{
+  "name": "os_lab1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MetaMmodern/OS_lab1.git",
+  "author": "metamodern <shabanovbunya@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo no tests specified"
+  }
+}

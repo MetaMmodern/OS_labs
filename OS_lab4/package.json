@@ -1,0 +1,10 @@
+{
+  "name": "OS_lab4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MetaMmodern/OS_lab4.git",
+  "author": "metamodern <shabanovbunya@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {}
+}

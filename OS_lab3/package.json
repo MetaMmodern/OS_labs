@@ -1,0 +1,14 @@
+{
+  "name": "OS_lab3",
+  "version": "1.0.0",
+  "description": "Lab for OS course in KPI University",
+  "main": "index.js",
+  "repository": "https://github.com/MetaMmodern/OS_lab3.git",
+  "author": "metamodern <shabanovbunya@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "run-parallel": "^1.1.10"
+  }
+}
