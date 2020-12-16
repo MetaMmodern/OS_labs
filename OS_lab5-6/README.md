@@ -17,4 +17,6 @@ In order to optimize the program following steps were done:
 
 Lab 6 was given in C++ language, but in order to run profiling it was _translated_ to Node.js. So, the results of profiling are:
 
+![profiled results](./images/node_profiled.jpg)
+
 As we can see, it gave us 0 confidence in what we need to do, so just usual optimization was made. Removed unnecessary and senseless code blocks(loops, if statements).
